@@ -1,4 +1,4 @@
-![image](https://github.com/albertomanser/LA1305/assets/110892537/05989ad3-9edb-4208-8cfd-091c9e484ecf)# LA1305
+# LA1305
 # Projekt-Dokumentation
 
 Alberto Manser
